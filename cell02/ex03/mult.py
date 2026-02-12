@@ -1,6 +1,6 @@
 import sys
 
-print("Enter the first number:")
+print("Enter the first number: ")
 try:
     num1 = int(input())
 except ValueError:

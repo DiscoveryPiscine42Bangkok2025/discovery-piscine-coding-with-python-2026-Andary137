@@ -1,4 +1,4 @@
-print("Enter a number")
+print("Enter a number EE")
 
 number = int(input())
 

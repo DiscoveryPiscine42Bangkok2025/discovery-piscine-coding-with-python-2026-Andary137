@@ -1,4 +1,4 @@
-password = "Python is awesome"
+password = "Python is awesome mak"
 
 user_input = input("Enter a Password:")
 
